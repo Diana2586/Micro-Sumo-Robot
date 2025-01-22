@@ -45,17 +45,17 @@ These lightweight silicone wheels provide maximum traction with minimal inertia.
 
 ## Usage 🎮
 
-1. Startup: The robot waits for a start trigger, either by pressing a button or receiving a start signal from a remote control.
+1. **Startup**: The robot waits for a start trigger, either by pressing a button or receiving a start signal from a remote control.
 
-2. Initialization: Once the start signal is received, the robot waits for 5 seconds while 2 user LEDs blink on the XMotion Micro.
+2. **Initialization**: Once the start signal is received, the robot waits for 5 seconds while 2 user LEDs blink on the XMotion Micro.
 
-3. Movement: The robot turns right or left based on the direction selected via the remote control (2 directions available).
+3. **Movement**: The robot turns right or left based on the direction selected via the remote control (2 directions available).
 
-4. Dohyo Boundaries: The robot actively monitors the line sensor to avoid falling off the dohyo.
+4. **Dohyo Boundaries**: The robot actively monitors the line sensor to avoid falling off the dohyo.
 
-5. Opponent Detection: The robot checks the opponent sensors for nearby opponents.
+5. **Opponent Detection**: The robot checks the opponent sensors for nearby opponents.
 
-6. Sensor-based Turning: If no sensors detect an object, the robot remembers the last sensor that detected something and turns in the same direction. Alternatively, a custom routine can be programmed for more complex movements.
+6. **Sensor-based Turning**: If no sensors detect an object, the robot remembers the last sensor that detected something and turns in the same direction. Alternatively, a custom routine can be programmed for more complex movements.
 
 ## Best Time Achievement 🏆
 
