@@ -62,3 +62,15 @@ These lightweight silicone wheels provide maximum traction with minimal inertia.
 Adina ranked in the **top16 out of 100 global participants** at Robochallenge.
  
 ## Media 📸
+
+## General Info About Micro Sumo robots and Micro Sumo Robot Rules 📖
+Micro sumo robots are competition type robots that 2 robot compete to push each other from the special ring (dohyo). For every type of sumo robot like Mega, Mini, Micro dimensions and weights have different qualifications. For Micro sumo robot these basic rules are:
+
+-Must be under 5cm each side (Width, length or height)
+-Maximum 100 gram weight is allowed.
+-It is forbidden to harm the opponent, only pushing is used as original sumo wrestlers. (Not like battlebots or combat robots)
+-No Radio control nor remote control allowed. Robots must be autonomous.
+
+For wrestling of micro sumo robots, dohyo area is 35cm diameter with 1cm white line thickness at edges.
+
+Microsumo robots are new type of competitions give makers challange to build project with full of sensors and moving parts like drive trains. 
