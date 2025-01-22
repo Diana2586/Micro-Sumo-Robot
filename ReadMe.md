@@ -1,7 +1,7 @@
 # Adina - Microsumo Robot
 
 ![pic4](./media/pic4.gif)  
-The robot with orange wheels.
+The robot with **orange** wheels.
 
 ## Project Overview 🤖
 
