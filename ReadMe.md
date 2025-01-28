@@ -57,7 +57,7 @@ These lightweight silicone wheels provide maximum traction with minimal inertia.
 
 6. **Sensor-based Turning**: If no sensors detect an object, the robot remembers the last sensor that detected something and turns in the same direction. Alternatively, a custom routine can be programmed for more complex movements.
 
-## Best Time Achievement 🏆
+## Best Achievement 🏆
 
 Adina ranked in the **top16 out of 100 global participants** at Robochallenge.
  
